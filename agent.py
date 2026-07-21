@@ -16,6 +16,7 @@ from datetime import datetime
 from dotenv import load_dotenv
 from langchain_core.messages import HumanMessage, SystemMessage
 from langchain_openai import ChatOpenAI
+from common import get_expertise_by_persona
 
 load_dotenv()
 

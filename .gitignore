@@ -1,7 +1,77 @@
-.env
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Distribution / packaging
+*.egg-info/
+*.eggs/
+
+develop-eggs/
+dist/
+
+# Virtual environment
+venv/
+.env
+
+# Transcripts
 transcripts/
-venv/ 
-debate-frontend/node_modules/ 
-debate-frontend/dist/ 
+
+# Node_modules (for frontend)
+debate-frontend/node_modules/
+debate-frontend/.vite
+
+# Build artifacts
+debate-frontend/dist/
+venv/Lib/site-packages/
+
+# Local IDE cache
+delete_pycache_files.py
+.pytest_cache/
+
+# Environment
+.env.example
+
+# Temporary files
+*.tmp
+*.temp
+*_BACKUP
+*_bak
+
+# Mac OS
+.DS_Store
