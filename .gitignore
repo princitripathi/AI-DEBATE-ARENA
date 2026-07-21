@@ -2,3 +2,6 @@
 __pycache__/
 *.pyc
 transcripts/
+venv/ 
+debate-frontend/node_modules/ 
+debate-frontend/dist/ 
