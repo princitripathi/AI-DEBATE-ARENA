@@ -169,13 +169,9 @@ The application is currently deployed at:
 |-----------|---------------------|
 | ![Home Page](assets/home.png) | ![Live Debate Round 1](assets/live-debate-round-1.png) |
 
-| Live Debate - Round 2 | AI Judge Verdict |
+| Live Debate - Round 2 | Transcript Export |
 |---------------------|------------------|
-| ![Live Debate Round 2](assets/live-debate-round-2.png) | ![AI Judge Verdict](assets/ai-judge-verdict.png) |
-
-| Transcript Export | Transcript Export Button |
-|------------------|-------------------------|
-| ![Transcript Export](assets/transcript-export.png) | ![Transcript Export Button](assets/transcript-export.png) |
+| ![Live Debate Round 2](assets/live-debate-round-2.png) | ![Transcript Export](assets/transcript-export.png) |
 
 ## Future Improvements
 
